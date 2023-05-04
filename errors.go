@@ -1,4 +1,4 @@
-package basic
+package lattice_common
 
 import "zkjg.com/lattice/common/zerror"
 

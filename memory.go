@@ -1,4 +1,4 @@
-package basic
+package lattice_common
 
 const (
 	Mem4G   = 4

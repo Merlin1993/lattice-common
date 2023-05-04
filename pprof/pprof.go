@@ -74,7 +74,7 @@ import (
 	"strconv"
 	"strings"
 	"time"
-	"zkjg.com/lattice/common/pprof/profile"
+	"zkjg/lattice/common/pprof/profile"
 )
 
 func Init() {

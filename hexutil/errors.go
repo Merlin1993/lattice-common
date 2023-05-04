@@ -2,7 +2,7 @@ package hexutil
 
 import (
 	"fmt"
-	"zkjg.com/lattice/common/zerror"
+	"zkjg/lattice/common/zerror"
 )
 
 var (

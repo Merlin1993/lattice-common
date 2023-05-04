@@ -1,4 +1,4 @@
-module zkjg.com/lattice/common
+module zkjg/lattice/common
 
 go 1.18
 

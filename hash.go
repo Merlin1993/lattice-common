@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math/big"
 	"reflect"
-	"zkjg.com/lattice/common/hexutil"
+	"zkjg/lattice/common/hexutil"
 )
 
 const HashLength = 32

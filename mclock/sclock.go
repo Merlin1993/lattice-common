@@ -7,8 +7,8 @@
 package mclock
 
 import (
-	"ZLattice/common/config"
 	"time"
+	"zkjg/lattice/common/config"
 )
 
 var (

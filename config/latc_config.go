@@ -2,7 +2,7 @@ package config
 
 import (
 	"math/big"
-	common "zkjg.com/lattice/common"
+	common "zkjg/lattice/common"
 )
 
 var (

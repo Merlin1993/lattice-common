@@ -2,7 +2,7 @@ package lattice_common
 
 import (
 	"io"
-	"zkjg.com/lattice/common/rlp"
+	"zkjg/lattice/common/rlp"
 )
 
 type Log struct {
